@@ -1,4 +1,4 @@
-# React | Typescript | Jest - application boilerplate
+# React TS Testing Challenge
 
 It's a template for React application with Typescript, Jest library and other stuff that can be helpful for You - feel free to use it!
  
@@ -13,7 +13,7 @@ It's a template for React application with Typescript, Jest library and other st
 
 1. Clone this repository to destination folder.
 
-`git clone https://github.com/rkoziol/react-typescript-jest-boilerplate.git`
+`git clone https://github.com/PatrickNiyogitare28/react-ts-testing-challange.git`
 
 2. Install dependencies.
 
